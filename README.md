@@ -39,15 +39,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrohmg1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohmg1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Linguagens Mais Usadas" />
-</div>
-
----
-
 ### 🔗 Conecte-se comigo
 
 <div align="center">
