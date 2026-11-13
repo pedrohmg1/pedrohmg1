@@ -63,5 +63,5 @@
 
 <!-- GIF Decorativo com temática Pixel Art / Lofi -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3c/8d/ee/3c8deed5cc9b7a13d7c570f7fcf1e5dc.gif" width="100%" alt="Lo-fi Pixel Art" />
+  <img src="https://i.pinimg.com/originals/51/7d/50/517d50010dfe6e71d17548cae0f6f0dc.gif" width="100%" alt="Pixel Art Setup" />
 </div>
