@@ -54,7 +54,7 @@
 
 <!-- GIF Decorativo com temática Pixel Art / Lofi -->
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/0b6747e8-22a2-49c0-a4f3-4a6417fd4cd8" width="100%" alt="Pixel Art Setup" />
+  <img src="https://github.com/user-attachments/assets/affa6461-cea7-441b-8de5-f919308a3cfd"  width="100%" alt="Pixel Art Setup" />
 </div>
 
 ### 🐍 Histórico de Contribuições
