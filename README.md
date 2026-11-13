@@ -56,3 +56,13 @@
 <div align="center">
   <video src="https://github.com/user-attachments/assets/0b6747e8-22a2-49c0-a4f3-4a6417fd4cd8" width="100%" alt="Pixel Art Setup" />
 </div>
+
+### 🐍 Histórico de Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrohmg1/pedrohmg1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrohmg1/pedrohmg1/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pedrohmg1/pedrohmg1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
