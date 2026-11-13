@@ -45,11 +45,13 @@
   <a href="https://www.linkedin.com/in/pedrohmgiacomo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://pedrohmg1.github.io/portf-lio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-6C5CE7?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfólio" />
+  </a>
   <a href="mailto:pedrohmgiacomo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
 <br>
 
 <!-- GIF Decorativo com temática Pixel Art / Lofi -->
