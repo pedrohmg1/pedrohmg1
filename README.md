@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na **Fatec Zona Leste**
+- 🎓 Estudando Desenvolvimento de Software na **Fatec Zona Leste**
 - 🚀 Desenvolvendo aplicações Full-Stack com foco em performance e UX/UI
 - 🧠 Explorando e integrando **Agentes de Inteligência Artificial** em sistemas corporativos
 - ⚡ Focado em **React, Next.js, Node.js, Java, Python** e desenvolvimento mobile com **.NET MAUI**
